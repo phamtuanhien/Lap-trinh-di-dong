@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">chuyencoso</string>
+    <string-array name="coso">
+        <item>Nhị phân</item>
+        <item>Bát phân</item>
+        <item>Thập phân</item>
+        <item>Thập lục phân</item>
+    </string-array>
+</resources>
