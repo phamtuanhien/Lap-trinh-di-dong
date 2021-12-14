@@ -1,0 +1,22 @@
+<resources>
+    <string name="app_name">navDrawerApp</string>
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+    <string name="nav_header_title">Android Studio</string>
+    <string name="nav_header_subtitle">android.studio@android.com</string>
+    <string name="nav_header_desc">Navigation header</string>
+    <string name="action_settings">Settings</string>
+
+    <string name="menu_home">Home</string>
+    <string name="menu_slideshow">Slideshow</string>
+    <string name="menu_calc">Calculator</string>
+    <string name="menu_doicoso">Đổi cơ số</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string-array name="coso">
+        <item>Nhị phân</item>
+        <item>Bát phân</item>
+        <item>Thập phân</item>
+        <item>Thập lục phân</item>
+    </string-array>
+</resources>
